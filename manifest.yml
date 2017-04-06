@@ -103,7 +103,7 @@ dependencies:
   - cflinuxfs2
 - name: bower
   version: 1.8.0
-  uri: https:///dependencies/bower/bower-1.8.0-b61dd4e9.tgz
+  uri: http://10.9.168.108:9000/pivotal-buildpacks/dependencies/bower/bower-1.8.0-b61dd4e9.tgz
   md5: b61dd4e9685101f82dab8c13b5c085e1
   cf_stacks:
   - cflinuxfs2
